@@ -6,7 +6,7 @@ website:
   description: "A graduate student at Cal Poly Pomona"   # A brief slogan (optional)
   image: img/my_image.jpeg
   
-  favicon: img/favicon.png
+  favicon: img/coastal_ecology_lab_logo.png
   
   # start of the navigation bar at the top of the website
   navbar:
