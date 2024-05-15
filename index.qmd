@@ -1,0 +1,39 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpeg"
+  links:
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/jdgirlzworld/
+    - icon: github
+      text: Github
+      href: https://github.com/PohakuMakamae
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jade-hiraki-morris-34791b296/
+    - icon: envelope
+      text: Email
+      href: "mailto:jhmorris@cpp.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+I am Jade Hiraki Morris, and I am currently a graduate student at California State Polytechnic University, Pomona. I am working towards obtaining a masters degree in biology. I am working in the coastal ecology lab here on campus with my advisor Dr. Jayson Smith. On this website, I offer a glimpse into my ongoing research journey!
+
+My research interests include marine ecology and the rocky intertidal zone. I have done quite a lot of research along the southern California coastline looking at biodiversity and community ecology. I have also been researching a new species of copepod found living inside the shells of hermit crabs along Palos Verdes Peninsula, California.
+
+I work as a teaching assistant and have taught two semesters of BIO1220L - Evolution Ecology and Biodiversity Lab, here on campus. I also work as an educator at Cabrillo Marine Aquarium in San Pedro, California. I work as a field researcher for the coastal ecology lab at Cal Poly. I also work with an environmental consulting company as a technical scuba diver and field technician.
+
+On this website, you will find a selection of my project, photos, and CV which I hope to update as I continue my academic career. Please feel free to [contact me](mailto:jhmorris@cpp.edu) if you have any questions.
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
+

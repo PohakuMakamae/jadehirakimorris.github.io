@@ -1,0 +1,29 @@
+---
+title: "Photography"
+---
+
+For this new species, I have had to make scientific illustrations for describing them. However, given that these illustrations have not been published, I was givent the opportunity to take SEM images of them at the Los Angeles Natural History Museum. Here are some of those photos.
+
+::: {layout-ncol=2}
+
+![](copepod1.png)
+
+![](copepod2.png)
+
+![](copepod3.png)
+
+![](copepod4.png)
+
+![](copepod5.png)
+
+![](copepod6.png)
+
+![](copepod7.png)
+:::
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```

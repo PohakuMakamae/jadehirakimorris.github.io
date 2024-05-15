@@ -1,0 +1,18 @@
+---
+title: Projects
+---
+
+## A new species of porcellidiid copepod
+
+<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://storymaps.arcgis.com/stories/0a983d883b5c47f79661fcb9ccb59e6f', 'blank');"/>
+
+<a href="https://storymaps.arcgis.com/stories/0a983d883b5c47f79661fcb9ccb59e6f" target="_blank">arXiv Preprint</a> | <a href="https://storymaps.arcgis.com/stories/0a983d883b5c47f79661fcb9ccb59e6f" target="_blank">Code</a><br>
+
+A commensal copepod in the family Porcellidiidae was discovered living symbiotically inside the shells of Bluebanded hermit crabs (Pagurus samuelis) in 2016. These hermit crab hosts, which have a geographic range from Alaska to Baja California, are commonly found in the rocky intertidal zones on the Palos Verdes Peninsula in southern California, USA. Fourteen sites were sampled along the southern California coastline extending from just north of Point Conception to the southern portion of Palos Verdes Peninsula. Out of all fourteen sites sampled, porcellidiid copepods were only present in varying prevalence at four sites along the Palos Verdes Peninsula (Point Fermin 71.3%, Golden Cove 35%, White Point 20%, and Cabrillo Outer Beach 15.8%). Specimens were later cleared using lactic acid and were then stained with lignin pink. After producing a habitus illustration, microdissections were conducted to remove the appendages for detailed illustration. After close examination of the morphology of the unknown porcellidiid and comparing them with copepod keys and known literature, we have determined that this species is undescribed. Some of the key defining features that set this species apart from others in the Family Porcellidiidae include the following morphological characteristics: (1) the male antennules have an additional segment that bears several modified setal elements and a distal spiniform process, (2) the terminal end of the female fifth leg extends to the end of the caudal rami, (3) the female caudal rami are rectangular as opposed to rhomboidal, and (4) the posterolateral processes on the female genital complex extend nearly to the end of the caudal rami. Given the fact that the male antennules are used for grasping a female for pre-copulatory mate guarding and copulation, the unique features of the antennules in the male porcellidiid copepods from southern California suggest that the establishment of a new genus is warranted.
+
+----
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
